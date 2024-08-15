@@ -65,44 +65,44 @@
     }  
 	  ,
     "SESSION_ID":
-    {
+    {eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiU09ON0oyR1lTWERIeUc2U2F3NVRQUXFrb2JLN2lMUTBxckd2VEtzYXMzWT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiM0o3QmdGaE9KYmNORk1XajgyQkFtZXhWd0tPd2JzZlF0QVl5azFxU1lVMD0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJVTzJXVUp2OWVWZXUvcjB4RVBLMWpPNkYvZlhNaXQ5WFRSMCtKRWdUc2xNPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJNS0w2UStveFdvVkVvaFRRUXMxYWpNZk5pWWp0WU4wYjN5K0lHbG1sd1RVPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IitLekUrdTZtMW5Ja2xJYmd1QzhySTJNWXpGUEdKVkk2S0J0U3psbWFkRXM9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjAzMG04YkQ3bFBqQlZMNjB6TG42a2ZEOSsybnUyMktFQkFJditCK2xsU1E9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoib0hIUmIwbjJtRGY0MnZtM0VLM0Q3ekpaRHNxVWZTUklpd3d2WXVjby8xdz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiajBDdEpyWnpKUXVTWGJobjRRRzhkbE5lVVRPMExIajJuVjhEUDdxUSsyWT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImtLVlp0bGc1ZlRmQ0lrRU81dU5kVkxGY2t0eTZiWlQ4SHdWSXJXZDBrZWFiSmVpb0MycmRTdlZKdmNiU1RNbjMxVG9QVmJxQ3NkQkY1NXkyeWxrZ0FnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTYzLCJhZHZTZWNyZXRLZXkiOiJYTnB2SGNqNG9MR2RtVXZlZ0FqTlQ1eFVhcFhsZXoyS1AxUWlBZThsUVNzPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiI5RzVlU203UlJELVFQNThTbnR2eHlBIiwicGhvbmVJZCI6IjY1MWEyOWEzLTNmOGMtNDA4Zi1hNWY0LTdhMTlkNDE5ZDkxOSIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJjVkRLRUtYckwzdDhoV0taTWVqc1l4V0tXWWM9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiY1dlQXhNQWl0UWF5bllQS0JpYlF5K1o3SlJFPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IjEyRDEzU0g3IiwibWUiOnsiaWQiOiIyNzc4MTMwNTE3NzoyMUBzLndoYXRzYXBwLm5ldCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDSlcwenBzRkVOK0QrTFVHR0FJZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoidjlpQmIwdERyTzBQSEd3MzVlR084eDV5UnRaQzVyTWFsS2ZOTEF6ajIzVT0iLCJhY2NvdW50U2lnbmF0dXJlIjoiMTFsRlY4TytwQzFrcVc3WTBsbnFOcGM4cTI0Z2E5NFg2MzZVNjNmd0JQNzVUTGVpVVNJUk5vcHFYTnZBWW43bkk3ZytvY09MWjlVZXZFYTI1ZWd4REE9PSIsImRldmljZVNpZ25hdHVyZSI6IllBcWR2QWNwQVhEWWhGUDhVVjVGV3VWWlN3cmhNT1NyZmIxcEsrREl6cHUwN3ZLRTRIbC9uZ0Rma2J4UE9BNnhMRE05NkJXb0hRNEVFelpvS1FWV0FnPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjc3ODEzMDUxNzc6MjFAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCYi9ZZ1c5TFE2enREeHhzTitYaGp2TWVja2JXUXVhekdwU256U3dNNDl0MSJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcyMzcyODM2NSwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFJL1gifQ==
       "description":"put your session ID, the code you received after pairing code",   
       "value":"",
       "required":true
       
     },
     "OWNER_NAME":
-    {
+    {saintfloew 
     
     "desc": "Your Name",
     "required": false,
     "value": "Cod3Uchiha"
   },
     "NUMERO_OWNER":
-  {
+  {27781305177
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
     "value": "263775571820,263785028126"
   },
-    "WARN_COUNT":
+    "WARN_COUNT":3
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
     "value": "3"
   },
   "STARTING_BOT_MESSAGE":
-  {
+  {yes
     "description": "if you don't want startting-bot-message put no else put yes",
     "required": true,
     "value": "yes"
   },
-  "PRESENCE":{
+  "PRESENCE":{typing 
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
     "value":"",  
     "required": false
   },
-  "ANTI_DELETE_MESSAGE" : {
+  "ANTI_DELETE_MESSAGE" : {.no
     "description": "if you want to enable anti delete message put yes else put no",
     "value": "no",
     "required": false
